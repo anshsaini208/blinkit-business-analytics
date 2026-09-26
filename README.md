@@ -235,18 +235,16 @@ These are descriptive observations from the dashboard. They should not be interp
 
 📚 Documentation
 Detailed project documentation is available here:
-- [Project Overview]([Documentation/Project_Overview.md](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/project_Overview.md))
-- [Business Problem]([https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/02_Business_Problem.md](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/02_Business_Problem.md))
-- [Dataset Description]([https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/03_Dataset_Description.md](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/03_Dataset_Description.md))
-- [Data Cleaning & Transformation]([https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/04_Data_Cleaning.md](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/04_Data_Cleaning.md))
+- [Project Overview](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/project_Overview.md)
+- [Business Problem](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/02_Business_Problem.md)
+- [Dataset Description](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/03_Dataset_Description.md)
+- [Data Cleaning & Transformation](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/04_Data_Cleaning.md)
 - [Data Model](
-[https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/05_Data_Model.md](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/05_Data_Model.md))
-- [DAX Measures]([https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/06_DAX_Measures.md](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/06_DAX_Measures.md))
-- [Dashboard Pages](
-[https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/07_Dashboard_Pages.md](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/07_Dashboard_Pages.md))
-- [Key Insights]([https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/08_Key_Insights.md](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/08_Key_Insights.md))
-- [Future Enhancements](
-[https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/09_Future_Enhancements.md](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/09_Future_Enhancements.md))
+https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/05_Data_Model.md)
+- [DAX Measures](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/06_DAX_Measures.md)
+- [Dashboard Pages](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/07_Dashboard_Pages.md)
+- [Key Insights](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/08_Key_Insights.md)
+- [Future Enhancements](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Documentation/09_Future_Enhancements.md)
 🚀 Future Enhancements
 Potential extensions include:
 - Demand forecasting
