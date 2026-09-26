@@ -8,7 +8,7 @@
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/01-executive-overview.png)
+![Executive Overview](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Screenshots/delivery-operations.png)
 
 ### Sales & Customer Analytics
 
