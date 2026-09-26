@@ -12,19 +12,19 @@
 
 ### Sales & Customer Analytics
 
-![Sales & Customer Analytics](Screenshots/02-sales-customer-analytics.png)
+![Sales & Customer Analytics](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Screenshots/sales-customer-analytics.png)
 
 ### Delivery & Operations Analytics
 
-![Delivery & Operations](Screenshots/03-delivery-operations.png)
+![Delivery & Operations](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Screenshots/delivery-operations.png)
 
 ### Inventory & Product Analytics
 
-![Inventory & Product Analytics](Screenshots/04-inventory-product-analytics.png)
+![Inventory & Product Analytics](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Screenshots/inventory-product-analytics.png)
 
 ### Marketing & Customer Experience
 
-![Marketing & Customer Experience](Screenshots/05-marketing-customer-experience.png)
+![Marketing & Customer Experience](https://github.com/anshsaini208/blinkit-business-analytics/blob/main/Screenshots/marketing-customer-experience.png)
 
 ---
 
