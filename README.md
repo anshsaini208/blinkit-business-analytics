@@ -1,6 +1,16 @@
 # 🛒 Blinkit Business Performance & Operations Analytics
 
 > Interactive Power BI dashboard analyzing sales, customers, delivery operations, inventory, marketing performance, and customer experience.
+> power-bi
+data-analytics
+business-intelligence
+data-visualization
+dax
+sql
+dashboard
+data-analysis
+blinkit
+portfolio-project
 
 ---
 
