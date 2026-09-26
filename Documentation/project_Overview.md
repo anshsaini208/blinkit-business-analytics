@@ -92,8 +92,8 @@ Dashboard Development
 Business Analysis
        ↓
 Insights & Reporting
-
-1.6 Dashboard Structure
+```
+##1.6 Dashboard Structure
 The final dashboard consists of five pages:
 Page	Purpose
 Executive Overview	Overall business performance
