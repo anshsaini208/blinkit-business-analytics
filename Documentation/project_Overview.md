@@ -92,3 +92,45 @@ Dashboard Development
 Business Analysis
        ↓
 Insights & Reporting
+
+1.6 Dashboard Structure
+The final dashboard consists of five pages:
+Page	Purpose
+Executive Overview	Overall business performance
+Sales & Customer Analytics	Sales and customer behavior
+Delivery & Operations Analytics	Delivery performance
+Inventory & Product Analytics	Inventory and product analysis
+Marketing & Customer Experience	Marketing and customer feedback
+
+
+1.7 Key Dashboard Metrics
+The final dashboard includes metrics such as:
+- Total Revenue
+- Total Orders
+- Average Order Value
+- Total Customers
+- Average Rating
+- On-Time Delivery %
+- Delayed Orders %
+- Average Delivery Variance
+- Average Delivery Distance
+- Total Stock
+- Damaged Stock
+- Damage Rate
+- Net Stock
+- Marketing Spend
+- Marketing Revenue
+- ROAS
+- Marketing CTR
+- Marketing Conversion Rate
+1.8 Project Outcome
+The completed dashboard provides an interactive environment for exploring business performance across multiple operational areas.
+Instead of analyzing individual datasets separately, the project combines related business data into a connected Power BI model and presents the results through a consistent five-page analytical interface.
+The dashboard is designed as a portfolio-level Data Analytics and Business Intelligence project demonstrating practical skills in:
+- Data preparation
+- Data modeling
+- DAX
+- KPI development
+- Interactive visualization
+- Business analysis
+- Dashboard design
